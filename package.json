@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^33.0.0",
+    "expo": "^46.0.16",
     "expo-image-picker": "^8.0.1",
     "indicative": "^7.4.2",
     "react": "16.8.3",
